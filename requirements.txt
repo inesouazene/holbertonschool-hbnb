@@ -1,0 +1,6 @@
+flask
+flask-RESTful
+Flask-SQLAlchemy
+flask-restx
+uuid
+datetime
